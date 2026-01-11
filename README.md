@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my work as a Full-Stack Develo
 
 <div align="center">
 
-🌐 **[View Live Site](https://sherrienfischer.github.io)**
+🌐 **[View Live Site](https://sherrienfischer-stack.github.io)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -41,7 +41,7 @@ A modern, responsive portfolio website showcasing my work as a Full-Stack Develo
 ## 📂 Project Structure
 
 ```
-sherrienfischer.github.io/
+sherrienfischer-stack.github.io/
 │
 ├── index.html          # Main HTML file
 ├── css/
@@ -59,10 +59,10 @@ sherrienfischer.github.io/
 
 ```bash
 # Clone the repository
-git clone https://github.com/sherrienfischer/sherrienfischer.github.io.git
+git clone https://github.com/sherrienfischer-stack/sherrienfischer-stack.github.io.git
 
 # Navigate to directory
-cd sherrienfischer.github.io
+cd sherrienfischer-stack.github.io
 
 # Open in browser
 start index.html
@@ -75,7 +75,7 @@ start index.html
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sherrienfischer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherrienfischer@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sherrienfischer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherrienfischer)
+[![GitHub](https://img.shields.io/badge/GitHub-sherrienfischer-stack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherrienfischer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sherrienfischer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sherrienfischer)
 
 </div>
